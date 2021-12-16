@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "Rose",
+    "picture": "images/rose.jpeg",
+    "price": 12000000000000000000,
+    "type": "Wild Rose",
+    "origin": "Georgia"
+  },
+  {
+    "id": 1,
+    "name": "Hydrangea",
+    "picture": "images/hydrangea.jpg",
+    "price": 13000000000000000000,
+    "type": "Purple Hydrangea",
+    "origin": "Saint Paul, MN"
+  },
+  {
+    "id": 2,
+    "name": "Orchid",
+    "picture": "images/orchid.jpeg",
+    "price": 18000000000000000000,
+    "type": "Pink and White Orchid",
+    "origin": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Peony",
+    "picture": "images/peony.jpeg",
+    "price": 10000000000000000000,
+    "type": "Blush Peony",
+    "origin": "Madison, WI"
+  },
+  {
+    "id": 4,
+    "name": "Tulip",
+    "picture": "images/tulip.jpeg",
+    "price": 22000000000000000000,
+    "type": "Pastel Tulips",
+    "origin": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Tulip",
+    "picture": "images/tulip.jpeg",
+    "price": 22000000000000000000,
+    "type": "Pastel Tulips",
+    "origin": "Gerber, South Dakota"
+  },
+  {
+    "id": 6,
+    "name": "Tulip",
+    "picture": "images/tulip.jpeg",
+    "price": 22000000000000000000,
+    "type": "Pastel Tulips",
+    "origin": "Gerber, South Dakota"
+  }
+]
